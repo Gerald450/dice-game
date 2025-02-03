@@ -4,6 +4,19 @@
   text-align: center;
 }
 
+.button{
+  margin-top: 50px;
+  width: 100px;
+}
+
+
+button{
+  height: 30px;
+  width: 100px;
+  border-radius: 7px;
+  background-color: chartreuse;
+}
+
 .dice {
   text-align: center;
   display: inline-block;
@@ -26,6 +39,11 @@ p {
   font-size: 2rem;
   color: #4ECCA3;
   font-family: 'Indie Flower', cursive;
+}
+
+.click-me{
+  font-family: 'Indie Flower', cursive;
+  font-size: medium;
 }
 
 img {
